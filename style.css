@@ -1,0 +1,23 @@
+body {
+  background-color: #fdd2bf;
+  font-family: 'Roboto', sans-serif;
+}
+
+.header, .image-container, .btn {
+  display: flex;
+  justify-content: center;
+}
+
+h1, h2 {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+#one, #two {
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
+  background-color: #000;
+  color: #fff;
+  font-size: 20px;
+}
+
